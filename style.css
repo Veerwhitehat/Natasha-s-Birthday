@@ -1,0 +1,11 @@
+h1
+  {
+    font-size: 25px !important;
+  }
+  canvas {
+  	border:1px solid black;
+  }
+  body{
+    background-image: linear-gradient(to right, red , yellow);
+  }
+ 
